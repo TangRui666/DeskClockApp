@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/base_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#555555"
+    android:orientation="vertical"> 
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="45dp"
+    android:id="@+id/add_alarm"
+    android:text="添加闹钟"
+    android:background="@android:drawable/list_selector_background"
+    android:textColor="#FFFFFF"
+    android:textSize="25dp"
+    />
+    <!--<LinearLayout android:id="@+id/add_alarm"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="@android:drawable/list_selector_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            style="@style/alarm_list_left_column"
+            android:duplicateParentState="true"
+            android:gravity="center"
+            android:scaleType="center"
+            android:src="@drawable/add_alarm" />
+
+        <TextView
+            android:duplicateParentState="true"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="?android:attr/textColorPrimary"
+            android:text="添加闹钟" />
+
+    </LinearLayout>-->
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:gravity="fill_horizontal"
+        android:src="@android:drawable/divider_horizontal_dark" />
+
+    <ListView
+        android:id="@+id/alarms_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+     <!--  <ImageButton android:id="@+id/desk_clock_button"
+            style="@style/ButtonStripLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_clock_strip_desk_clock"
+            android:contentDescription="@string/desk_clock_button_description"/>-->
+
+        <com.cn.daming.deskclock.DigitalClock
+            style="@style/ButtonStripRight"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:baselineAligned="true">
+
+                <TextView android:id="@+id/timeDisplay"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="6dip"
+                    android:textSize="45sp"
+                    android:textColor="#FFFFFF" />
+
+                <TextView android:id="@+id/am_pm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#FFFFFF" />
+
+            </LinearLayout>
+
+      </com.cn.daming.deskclock.DigitalClock>
+
+    </LinearLayout>
+
+</LinearLayout>

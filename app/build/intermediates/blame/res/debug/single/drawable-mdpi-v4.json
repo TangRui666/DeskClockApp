@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog_divider_horizontal_light.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\dialog_divider_horizontal_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_in_call_round_pressed.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_in_call_round_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_clock_alarm_selected.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_clock_alarm_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_middle_selected.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_selected.9.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_selector_background_pressed.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\list_selector_background_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_clock_alarm_on.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_clock_alarm_on.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_background.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_background.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_in_call_round_disable_focused.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_in_call_round_disable_focused.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\clock_launcher.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\clock_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_clock_face.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_clock_face.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_alarms.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_alarms.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_add.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_add.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_clock_alarm_off.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_clock_alarm_off.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_right_normal.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_right_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_clock_add_alarm.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_clock_add_alarm.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_middle_normal.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_desk_clock.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_desk_clock.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_in_call_round_normal.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_in_call_round_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\divider_vertical_dark.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\divider_vertical_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_right_selected.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_right_selected.9.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_clock_strip_desk_clock.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_clock_strip_desk_clock.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_in_call_round_disable.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_in_call_round_disable.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stat_notify_alarm.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\stat_notify_alarm.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\dialog.9.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_in_call_round_selected.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_in_call_round_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_clock_add_alarm_selected.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_clock_add_alarm_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_indicator_off.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_indicator_off.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_left_selected.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_selected.9.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_left_pressed.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_left_normal.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_indicator_on.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_indicator_on.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_middle_pressed.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dialog_time.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_dialog_time.png"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_right_pressed.9.png",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_right_pressed.9.png"
+    }
+]

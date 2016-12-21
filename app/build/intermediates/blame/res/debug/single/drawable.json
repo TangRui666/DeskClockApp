@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_left.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable\\btn_strip_trans_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_right.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable\\btn_strip_trans_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_selector.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable\\clock_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_clock_onoff.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable\\indicator_clock_onoff.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incall_round_button.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable\\incall_round_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_middle.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable\\btn_strip_trans_middle.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_alarm.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\drawable\\add_alarm.xml"
+    }
+]

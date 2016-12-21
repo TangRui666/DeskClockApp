@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alarm_list_menu.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\menu\\alarm_list_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\menu\\context_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\desk_clock_menu.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\menu\\desk_clock_menu.xml"
+    }
+]

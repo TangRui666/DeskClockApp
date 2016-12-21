@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\in_call_alarm.ogg",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\raw\\in_call_alarm.ogg"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fallbackring.ogg",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\raw\\fallbackring.ogg"
+    }
+]

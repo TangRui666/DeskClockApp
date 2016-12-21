@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_clock.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\layout\\alarm_clock.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_alert.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\layout\\alarm_alert.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_header.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\layout\\context_menu_header.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_time.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\layout\\alarm_time.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\DeskClockApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_alarm.xml",
+        "source": "D:\\Android\\DeskClockApp1\\app\\src\\main\\res\\layout\\set_alarm.xml"
+    }
+]
